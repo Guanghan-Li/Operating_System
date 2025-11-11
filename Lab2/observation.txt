@@ -1,0 +1,7 @@
+// Name: Guanghan Li
+// Date: 2025-09-30
+// Title: Lab2 – observations
+// Description: This is the observations that I made.
+
+2: I observe that most of the output alternates between the parent and child processes. I also notice that the for loop make it so that every iteration from 0 to 9 totaling 10 will include it's iteration number. The parent printed first pretty consistantly for almost all of them except for one.
+4: I observe that longer delay make it slower to output and also make the result irreliable, everytime I run it again it seem to change the output order slightly.
