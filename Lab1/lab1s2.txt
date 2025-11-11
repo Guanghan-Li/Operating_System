@@ -1,0 +1,8 @@
+# Name: Guanghan Li
+# Date: 2025-09-23
+# Title: Lab1 - Step 2
+# Description: This is the observation for the first program.
+I observed that this program checks the amount of files there is in the folder and sum up the numbers of lines.
+This program also check waht the home directory is and who the user is.
+This also checks the path it's in using PWD
+This program also check is the user is garrick, if it is then it will repeatedly calculate the area of the rectangle with the user's given width and height values until the user stopes it with No.

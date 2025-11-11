@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+*.o
+*.out
+*.obj
+*.exe
+*.a
+*.so
+*.dylib
+*.dll
+*.lo
+*.la
+*.cmake
+*.pch
+*.pdb
+*.mod
+*.smod
+*.gcno
+*.gcda
+*.gcov
+*.swp
+*.swo
+a.out
+core
+vgcore.*
+*.dSYM/
+
+# Build / distribution directories
+bin/
+build/
+dist/
+Debug/
+Release/
+cmake-build*/
+
+# IDE metadata
+.vscode/
+.idea/
+
+# Lab-specific compiled steps (numbered executables)
+Lab*/[0-9]*
+!Lab*/*.c
+!Lab*/*.h
+!Lab*/Makefile
+!Lab*/*.mk
+!Lab*/*.sh
+!Lab*/*.txt
+!Lab*/*.md
+!Lab*/*.py
+!Lab*/*.java
+
+# Named executables built from threadSync.c
+Lab*/threadSync
